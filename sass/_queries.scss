@@ -1,0 +1,152 @@
+/* -- Media Queries ---*/
+
+@include medium {
+  p {
+    font-size: $mediumFontsize;
+  }
+
+  /*-- NAVIGATION - -*/
+  nav {
+    ul {
+      flex-direction: row;
+
+      li {
+        width: calc(33.33% - 1px);
+        margin-bottom: 0px;
+      }
+    }
+  }
+
+  .branding {}
+
+  footer {}
+
+  #content-container {
+    img {
+      display: block;
+      width: 50%;
+      float: left;
+      padding: 1rem;
+    }
+
+    p {
+      width: 50%;
+      float: left;
+      margin: 0;
+      padding: .5rem 1rem 1rem 1rem;
+    }
+  }
+}
+
+
+@include large {
+  p {
+    font-size: $largeFontsize;
+  }
+
+  h1 {
+    font-size: $h1 * 1.618;
+  }
+
+  h2 {
+    margin-left: 1rem;
+  }
+
+  nav {
+    max-width: 40%;
+
+    ul {
+      flex-direction: row;
+
+      li {
+        width: calc(33.33% - 5px);
+        margin-bottom: 0px;
+
+        a {
+          font-size: $baseFontsize * 1.618;
+          height: 2rem;
+          line-height: 2rem;
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  .content-box {
+    text-align: left;
+  }
+
+  .branding {
+    h1 {
+      margin: .75em 0;
+      text-align: left;
+    }
+  }
+
+  footer {
+    max-width: 40%;
+    flex-direction: row;
+    align-items: flex-start;
+
+    .social-links {
+      text-align: left;
+    }
+
+    address {
+      margin: 0;
+      padding: 0;
+      text-align: left;
+    }
+
+    .p {
+      margin-top: 0;
+    }
+
+    .copyright-notice {
+      text-align: right;
+
+      p {
+        margin: 0;
+      }
+    }
+  }
+
+  /*** Specific to this site **/
+  #content-buttons {
+    flex-direction: column;
+    justify-content: flex-start;
+
+    button {
+      width: 70px;
+      height: 70px;
+    }
+  }
+
+  #content-container {
+    img {
+      display: block;
+      width: 30%;
+      float: left;
+      padding: 1rem;
+    }
+
+    p {
+      width: 70%;
+      float: left;
+      margin: 0;
+      padding: .5rem 1rem 1rem 1rem;
+    }
+  }
+
+  #slide-show {
+    .slide {
+      p {
+        margin-left: 1rem;
+      }
+    }
+  }
+
+  .layout-control {
+    display: flex;
+  }
+}

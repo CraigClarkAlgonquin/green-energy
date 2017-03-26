@@ -1,0 +1,37 @@
+images
+content01-nationalize.jpg
+content02-wages.jpg
+content03-building.jpg
+icon01-resist.svg
+icon02-wages.svg
+icon03-building.svg
+slides01-windmill.jpg
+slides02-solar-wind.jpg
+slides03-tidal.jpg
+slides04-hydro.jpg
+slides05-biomass.jpg
+
+
+Slide captions
+1 Clean energy has been around a long time
+2 Renewable energy sources are cleaner than fossil fuels
+3 Tidal power is an under utilized resource
+4 Clean does't necessarily mean environmentally friendly
+5 Biomass is an untapped resource
+
+
+Nationalize power
+Increase Wages
+building codes
+As long as the best profit margins come from fossil fuels, there is no incentive to make clean energy affordable for the average household. If people depend on your oil, you have a permanent customer. This stands in the way of developing clean energy policy because in a capitalist world, profit will always come first. We could get around this by seizing control of the energy sector ad making it a public asset. This would require a global effort as any country who has tried in the past gets crushed by the World Bank and the IMF.
+
+Increase Wages
+The side of the "make green energy affordable" equation that is always overlooked is the income side. If something is too expensive, it needs to get cheaper or you need more money. Adjusted for inflation, wages for all but the richest have been stagnate or dropping for decades. On top of that, employment stability is not what it used to be. Many people are working casual, part-time or o contract. Stabilizing the workforce and implementing things like a guaranteed basic income would not only make green energy affordable, but housing, food and education as well.
+
+building codes
+We could legislate that all new buildings be built with carbon neutral materials and are equipped with the latest energy efficient technology. This has been proposed in the past. Industry leaders have said that such regulations would cause the price to rise as the cost was passed on to consumers. Several economists state that this rarely happens. Businesses carefully calculate the optimum price for everything so they can keep prices as high as they can get away with. Implementing such building codes would not increase housing costs, but would likely cut into developers profits.
+
+
+"<div class=\"slide\"><img src=\"http://placehold.it/200x200\" alt=\"My Alt Text\"><h1>Slide 01</h1><p>one</p></div>",
+				 "<div class=\"slide\"><img src=\"http://placehold.it/200x200\" alt=\"My Alt Text\"><h1>Slide 02</h1><p>two</p></div>",
+				 "<div class=\"slide\"><img src=\"http://placehold.it/200x200\" alt=\"My Alt Text\"><h1>Slide 03</h1><p>three</p></div>"
